@@ -1,8 +1,22 @@
+# Node modules
+node_modules/
 
 # Playwright
-node_modules/
 /test-results/
 /playwright-report/
 /blob-report/
+
+# Playwright cache and auth
+.playwright/
 /playwright/.cache/
 /playwright/.auth/
+
+# Allure reports
+allure-report/
+allure-results/
+
+#Github
+.github/
+
+#Test Results
+test-results/   
