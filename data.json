@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://rahulshettyacademy.com/client/#/auth/register",
+  "registrationEmail": "email@gmail.com",
+
+
+  "validPassword": "Sample@123",
+  "invalidEmail": "invalid@gmail.com",
+  "invalidPassword": "Invalid@123",
+  "myAccountPageTitle": "My Account"
+}

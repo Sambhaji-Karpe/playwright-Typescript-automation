@@ -18,12 +18,14 @@
   "homepage": "https://github.com/Sambhaji-Karpe/playwright-Typescript-automation#readme",
   "devDependencies": {
     "@playwright/test": "^1.58.2",
-    "@types/node": "^25.3.3"
+    "@types/node": "^25.3.3",
+    "allure-playwright": "^3.5.0"
   },
   "directories": {
     "test": "tests"
   },
   "dependencies": {
+    "@faker-js/faker": "^10.3.0",
     "playwright": "^1.58.2",
     "playwright-core": "^1.58.2",
     "undici-types": "^7.18.2"
